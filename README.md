@@ -20,5 +20,5 @@
 **Contact**
 <p align="center">
 	<a href="mailto:davidom51098@gmail.com" target="blank"><img align="center" src="https://www.pinclipart.com/picdir/big/447-4477875_mail-svg-icon-round-gmail-logo-png-clipart.png" height="50" /></a>
-	<a href="https://www.linkedin.com/in/david-dom%C3%ADnguez-manrique-3a223b260/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manuel-molinos-crespo-86a44399" height="50" /></a>
+	<a href="https://www.linkedin.com/in/david-dom%C3%ADnguez-manrique/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manuel-molinos-crespo-86a44399" height="50" /></a>
 </p>

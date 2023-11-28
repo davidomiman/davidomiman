@@ -8,6 +8,7 @@
 	<br/>
 	<img style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="lua" height="150"/>
 	<img style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" height="150"/>
+	<img style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" height="150"/>
 	<br/>
 	<img style="padding: 10px;" src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" height="150"/>
 	<img style="padding: 10px;" src="https://www.qindel.com/wp-content/uploads/2023/04/spring-boot.jpeg" alt="spring" height="150"/>

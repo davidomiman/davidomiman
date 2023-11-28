@@ -5,6 +5,7 @@
 <p align="center">
 	<img style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png" alt="bash" height="150"/>
 	<img style="padding: 10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVFXBL1HxbgblpazOCPi9WD8pQnug5nj5sroGSUfI7&s" alt="docker"  height="150"/>
+	<br/>
 	<img style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="lua" height="150"/>
 	<img style="padding: 10px;" src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" height="150"/>
 	<img style="padding: 10px;" src="https://www.qindel.com/wp-content/uploads/2023/04/spring-boot.jpeg" alt="spring" height="150"/>
